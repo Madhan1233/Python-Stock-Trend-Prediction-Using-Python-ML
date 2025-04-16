@@ -1,1 +1,1 @@
-# Python-Stock-Trend-Prediction-Using-Python-ML
+# stock_price_prediction
